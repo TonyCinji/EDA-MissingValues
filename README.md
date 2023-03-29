@@ -1,4 +1,4 @@
-# What is the benefit of treating missing values as a separate valid category? What is the benefit of removing or replacing them? What are the drawbacks of each?
+## What is the benefit of treating missing values as a separate valid category? What is the benefit of removing or replacing them? What are the drawbacks of each?
 
 Treating missing values as a separate valid category can have some benefits, such as:
 
